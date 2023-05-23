@@ -1,0 +1,20 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+#middle
+{
+    text-align: center;
+}
+header{
+  height: 50vh;
+   background:url(https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2018/03/01/Pictures/south-africa-india-cricket_15b3a138-1cfc-11e8-ba26-4f9ea6a8f74e.jpg) center/cover;
+}
+#bc{
+  background-color: aqua;
+}
+.bg-success {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+}
